@@ -1,0 +1,7 @@
+C:\Users\manlika\Downloads\Hotel-Management-System-main\Hotel-Management-System-main\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Users\manlika\Downloads\Hotel-Management-System-main\Hotel-Management-System-main\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Users\manlika\Downloads\Hotel-Management-System-main\Hotel-Management-System-main\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Users\manlika\Downloads\Hotel-Management-System-main\Hotel-Management-System-main\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Users\manlika\Downloads\Hotel-Management-System-main\Hotel-Management-System-main\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\manlika\Downloads\Hotel-Management-System-main\Hotel-Management-System-main\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Users\manlika\Downloads\Hotel-Management-System-main\Hotel-Management-System-main\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
